@@ -16,5 +16,6 @@ services:
     depends_on:
       - prometheus
     restart: always
+    #admin: admin
 
-  #admin: admin
+
